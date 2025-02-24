@@ -1,15 +1,15 @@
 
-package csc120_conpeice_bertosilvar;
+package csc120_conpeice_A44C8C8;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-/** Coder = BertoSilvar
+/** Coder = A44C8C8
  *  program can convert between any two base numbers up to 62.
  *  has two options.
  * 
  */
 
-public class CSC120_ConPeice_BertoSilvar {
+public class CSC120_ConPeice_A44C8C8 {
     
     private static final String key = "0213456789ABCDEFGHIJKLMNOPQRSTUVWXYZabc"
             + "defghijklmnopqrstuvwxyz" ;
